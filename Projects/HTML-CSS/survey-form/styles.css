@@ -1,0 +1,13 @@
+body {
+    background-color: #DDC7A0;
+}
+
+.header {
+  text-align: center;
+}
+.content {
+  background-color:beige;
+  height: auto;
+  padding: 50px;
+  border-radius: 10px;
+}

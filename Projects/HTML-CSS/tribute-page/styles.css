@@ -1,0 +1,16 @@
+img {
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  
+}
+
+p {
+    font-size: 20px;
+}
+ul {
+  display: table;
+  margin: 0 auto;
+  text-align: left;
+}
